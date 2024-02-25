@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isNumericDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-numeric-data-type@deno/mod.js';
+import isNumericDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-numeric-data-type@v0.2.1-deno/mod.js';
 ```
 
 #### isNumericDataType( value )
@@ -88,7 +88,7 @@ bool = isNumericDataType( 'uint32' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isNumericDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-numeric-data-type@deno/mod.js';
+import isNumericDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-numeric-data-type@v0.2.1-deno/mod.js';
 
 var bool = isNumericDataType( 'binary' );
 // returns false
